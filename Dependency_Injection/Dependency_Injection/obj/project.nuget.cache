@@ -1,0 +1,14 @@
+{
+  "version": 2,
+  "dgSpecHash": "hpgGcf2UZOQN9Vj2as6vsXcTcspDlTQQuIna2M1yrK0vM86ZNdJChaLwH7qOEaDwlM/ERUND8h+1IRrCMelRDg==",
+  "success": true,
+  "projectFilePath": "/Users/juanses/Desktop/Dependency_Injection/Dependency_Injection/Dependency_Injection.csproj",
+  "expectedPackageFiles": [
+    "/Users/juanses/.nuget/packages/microsoft.extensions.dependencyinjection/7.0.0/microsoft.extensions.dependencyinjection.7.0.0.nupkg.sha512",
+    "/Users/juanses/.nuget/packages/microsoft.extensions.dependencyinjection.abstractions/7.0.0/microsoft.extensions.dependencyinjection.abstractions.7.0.0.nupkg.sha512",
+    "/Users/juanses/.nuget/packages/microsoft.aspnetcore.app.ref/3.1.10/microsoft.aspnetcore.app.ref.3.1.10.nupkg.sha512",
+    "/Users/juanses/.nuget/packages/microsoft.netcore.app.host.osx-x64/3.1.30/microsoft.netcore.app.host.osx-x64.3.1.30.nupkg.sha512",
+    "/Users/juanses/.nuget/packages/microsoft.netcore.app.ref/3.1.0/microsoft.netcore.app.ref.3.1.0.nupkg.sha512"
+  ],
+  "logs": []
+}

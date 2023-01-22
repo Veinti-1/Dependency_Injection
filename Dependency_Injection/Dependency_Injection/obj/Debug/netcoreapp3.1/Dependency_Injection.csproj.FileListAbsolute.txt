@@ -1,0 +1,17 @@
+/Users/juanses/Desktop/Dependency_Injection/Dependency_Injection/bin/Debug/netcoreapp3.1/Dependency_Injection
+/Users/juanses/Desktop/Dependency_Injection/Dependency_Injection/bin/Debug/netcoreapp3.1/Dependency_Injection.deps.json
+/Users/juanses/Desktop/Dependency_Injection/Dependency_Injection/bin/Debug/netcoreapp3.1/Dependency_Injection.runtimeconfig.json
+/Users/juanses/Desktop/Dependency_Injection/Dependency_Injection/bin/Debug/netcoreapp3.1/Dependency_Injection.runtimeconfig.dev.json
+/Users/juanses/Desktop/Dependency_Injection/Dependency_Injection/bin/Debug/netcoreapp3.1/Dependency_Injection.dll
+/Users/juanses/Desktop/Dependency_Injection/Dependency_Injection/bin/Debug/netcoreapp3.1/Dependency_Injection.pdb
+/Users/juanses/Desktop/Dependency_Injection/Dependency_Injection/bin/Debug/netcoreapp3.1/Microsoft.Extensions.DependencyInjection.dll
+/Users/juanses/Desktop/Dependency_Injection/Dependency_Injection/bin/Debug/netcoreapp3.1/Microsoft.Extensions.DependencyInjection.Abstractions.dll
+/Users/juanses/Desktop/Dependency_Injection/Dependency_Injection/obj/Debug/netcoreapp3.1/Dependency_Injection.csproj.AssemblyReference.cache
+/Users/juanses/Desktop/Dependency_Injection/Dependency_Injection/obj/Debug/netcoreapp3.1/Dependency_Injection.GeneratedMSBuildEditorConfig.editorconfig
+/Users/juanses/Desktop/Dependency_Injection/Dependency_Injection/obj/Debug/netcoreapp3.1/Dependency_Injection.AssemblyInfoInputs.cache
+/Users/juanses/Desktop/Dependency_Injection/Dependency_Injection/obj/Debug/netcoreapp3.1/Dependency_Injection.AssemblyInfo.cs
+/Users/juanses/Desktop/Dependency_Injection/Dependency_Injection/obj/Debug/netcoreapp3.1/Dependency_Injection.csproj.CoreCompileInputs.cache
+/Users/juanses/Desktop/Dependency_Injection/Dependency_Injection/obj/Debug/netcoreapp3.1/Dependency_Injection.csproj.CopyComplete
+/Users/juanses/Desktop/Dependency_Injection/Dependency_Injection/obj/Debug/netcoreapp3.1/Dependency_Injection.dll
+/Users/juanses/Desktop/Dependency_Injection/Dependency_Injection/obj/Debug/netcoreapp3.1/Dependency_Injection.pdb
+/Users/juanses/Desktop/Dependency_Injection/Dependency_Injection/obj/Debug/netcoreapp3.1/Dependency_Injection.genruntimeconfig.cache
